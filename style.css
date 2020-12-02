@@ -1,13 +1,13 @@
 <style>
-h1{
-  border-bottom: 1px solid gray;
-  text-align:center;
-  margin:0px;
-}
 ol{
   border-right: solid gray;
   width:100px;
   padding:10px;
+  margin:0px;
+}
+h1{
+  border-bottom: 1px solid gray;
+  text-align:center;
   margin:0px;
 }
  #grid{
